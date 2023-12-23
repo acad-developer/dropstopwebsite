@@ -13,8 +13,8 @@
   | NOTE: changing this will require manually modifying the
   | existing namespaces of App\* namespaced-classes.
  */
-$mainurlredirect = "https://www.christianappdevelopers.com";
-$mainurlfunction = "https://www.christianappdevelopers.com/";
+$mainurlredirect = "https://dropstop.christianappdevelopers.com";
+$mainurlfunction = "https://dropstop.christianappdevelopers.com/";
 $baselink = 'http://' . $_SERVER['SERVER_NAME'];
 $islocal = false;
 switch ($baselink) {
