@@ -25,7 +25,7 @@ switch ($baselink) {
         break;
 
     default:
-        $mainurlredirect = "https://www.christianappdevelopers.com";
+        $mainurlredirect = "https://dropstop.christianappdevelopers.com";
 }
 
 defined('BASESEURL') || define('BASESEURL', $mainurlredirect);
